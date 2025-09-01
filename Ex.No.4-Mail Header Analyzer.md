@@ -72,7 +72,8 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 - Conclusion: Since the email came from a Mailgun server, which is authorized in the SPF record, the SPF check passed.
   <br>
   <br>
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/581a4ba5-60a8-45db-a9a5-442b765c5e0e" />
+<img width="1827" height="210" alt="mxt1" src="https://github.com/user-attachments/assets/9958fed6-d015-4cd4-a686-f20c765742e2" />
+
 
 <br>
 <br>
