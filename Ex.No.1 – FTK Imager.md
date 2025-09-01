@@ -23,7 +23,7 @@
   <br>
 <br>
 
-   <img width="1919" height="1096" alt="image" src="https://github.com/user-attachments/assets/8b6eead1-d327-43b7-be00-1b081822ebe5" />
+   <img/>
 <br>
 <br>
 
@@ -49,19 +49,21 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 <br>
 
- <img width="1918" height="1098" alt="image" src="https://github.com/user-attachments/assets/37f79f46-b802-4028-a10e-659874ebc6e2" />
+ <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/e5750a26-ba08-4f60-ba36-5d9b66b4ddff" />
+ 
 
  
 <br>
 <br>
 
 ### 4. Start Capture
-- Click the **Capture Memory** button to begin acquisition.
+- Click the Capture Memory button to begin acquisition.
 <br>
 <br>
 
 
-<img width="1914" height="868" alt="image" src="https://github.com/user-attachments/assets/1194796f-767d-4e59-8e3a-5962823bdda1" />
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/7823c21b-3d5e-4f50-9a9e-a5979a598772" />
+
 <br>
 <br>
 
@@ -81,7 +83,8 @@ A dialog box will appear where you configure where and how the memory will be sa
 
 <br>
 <br>
-<img width="1918" height="1066" alt="image" src="https://github.com/user-attachments/assets/479850a5-c2fb-4695-b830-2ab9dc3cc63d" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/56ad0ec6-f6cb-49e3-9fbc-863f050139d1" />
+
 
 <br>
 <br>
@@ -99,7 +102,8 @@ A window will appear asking you to choose the source type:
 <br>
 <p align="center">
 
-<img width="591" height="433" alt="image" src="https://github.com/user-attachments/assets/057d577e-5327-44e8-93b5-da3b5fca1fed" />
+<img width="640" height="512" alt="Screenshot 2025-09-01 203953" src="https://github.com/user-attachments/assets/80625d36-5231-41d6-be75-e2b67c4665fa" />
+
 </p>
 <br>
 <br>
@@ -110,7 +114,8 @@ A window will appear asking you to choose the source type:
  <br>
 <br>
 <p align="center">
-<img width="583" height="428" alt="image" src="https://github.com/user-attachments/assets/7174ba85-f638-4ca5-b299-65dc9841d3ea" />
+<img width="633" height="472" alt="ftk1" src="https://github.com/user-attachments/assets/86b2f0a2-ba75-4566-8e07-81d529d26219" />
+
 </p>
 <br>
 <br>
@@ -120,7 +125,8 @@ A window will appear asking you to choose the source type:
   <br>
 <br>
 <p align="center">
-<img width="508" height="490" alt="image" src="https://github.com/user-attachments/assets/6b826126-f3d0-4964-8578-4022e3ab6a08" /></p>
+<img width="553" height="567" alt="ftk2" src="https://github.com/user-attachments/assets/9621ce6c-e766-4114-908d-086e4153a048" />
+
 <br>
 
 #### Options:
@@ -140,7 +146,8 @@ A window will appear asking you to choose the source type:
   - Enter case details, examiner name, and description.  
   - This information is stored in the image metadata (important for documentation).
  <p align="center">
-<img width="511" height="407" alt="image" src="https://github.com/user-attachments/assets/93d6b429-5dae-4973-82d2-024545b537d5" />
+<img width="550" height="536" alt="ftk3" src="https://github.com/user-attachments/assets/a0e074da-bb69-4241-9e87-5c4d31f5af79" />
+
 </p>
 <br>
 <br>
@@ -156,7 +163,8 @@ A window will appear asking you to choose the source type:
   <br>
   
 <p align="center">
-<img width="511" height="402" alt="image" src="https://github.com/user-attachments/assets/bba79e8f-512d-4097-b23c-e230cbe166a3" />
+<img width="617" height="593" alt="ftk4" src="https://github.com/user-attachments/assets/2db24fbc-4dcc-4c9d-8826-64ee8ea34ce1" />
+
 </p>
 <br>
 <br>
@@ -179,7 +187,7 @@ A window will appear asking you to choose the source type:
 - The imaging process may take time depending on the drive size.  
 - After completion, FTK Imager verifies the hashes automatically.  
 - A final window shows **MD5** and **SHA1** hashes for both the source drive and image.  
-- Matching hashes confirm the forensic image’s integrity.
+- Matching hashes values with the imager
 
 ---
 ## Notes
