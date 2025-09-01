@@ -8,7 +8,8 @@
 - Gmail: Open the email, click the three dots (⋮), and select Show original.
 <br>
 <br>
-<img width="1951" height="1096" alt="image" src="https://github.com/user-attachments/assets/684d3ca9-e73e-4658-9cff-bca5639be3ad" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/03207d6d-2271-4bac-a442-1ddf2d079785" />
+
 <br>
 <br>
 
@@ -16,7 +17,8 @@
 - Select all the text in the header and copy it.
 
 <br>
-<img width="1913" height="1147" alt="image" src="https://github.com/user-attachments/assets/3ca951b6-d1a8-40b8-8e53-9593d9bf10e8" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/fed77c87-3443-43d3-a8cf-54827df48f02" />
+
 <br>
 <br>
 
@@ -39,7 +41,8 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 <br>
 <br>
 
-<img width="1919" height="1054" alt="image" src="https://github.com/user-attachments/assets/ddd00744-08ab-42fb-bdb6-7cc06702d5f8" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/970658d9-350a-4124-8a65-badb3cc1f1f2" />
+
 
 ### Step 3: Analyze The Report
 - This is the most critical step. In the analyzer's report, look for the SPF, DKIM, and DMARC results.
@@ -54,7 +57,8 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 <br>
 <br>
 
-<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/eb5fb84a-2ef3-444a-a15c-65009272d68d" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/de3cd5d2-0eaa-43de-8427-c5c99788c3f8" />
+
 <br>
 <br>
 
@@ -68,7 +72,8 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 - Conclusion: Since the email came from a Mailgun server, which is authorized in the SPF record, the SPF check passed.
   <br>
   <br>
-<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/9d3277b3-89e8-423a-a351-095dcef1f0a6" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/581a4ba5-60a8-45db-a9a5-442b765c5e0e" />
+
 <br>
 <br>
 
