@@ -63,11 +63,11 @@
  </p>
   <br>
   <br>
-### step 4: If any Packets not found
+ step 4: If any Packets not found
 - if any packets not found run the process again 
 - and move to next step
 
-### step 4: Inspect the Packet to Find Credentials 
+### step 5: Inspect the Packet to Find Credentials 
 
 - In the filtered packet list, you should see a packet with information like "POST /userinfo.php". Select this packet.
 
