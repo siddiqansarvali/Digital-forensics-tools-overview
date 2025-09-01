@@ -1,7 +1,7 @@
-#  Ex.No.2    TestDisk: Open-Source Data Recovery Tool
+#  Ex.No.2    TestDisk: Open-Source Data Recovery Application
 
 ## Aim :
-To use TestDisk step by step to recover a missing partition and repair a corrupted one.
+To use TestDisk step by step to recover a missing partition of data and repair a corrupted one.
 
 
 
@@ -34,7 +34,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1100" height="636" alt="image" src="https://github.com/user-attachments/assets/4310ed86-2b64-43bc-a6ec-b0ff07eed18d" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/0722030f-2f36-47f9-b969-4fd8633b87e8" />
+
 </p>
 <br>
 <br>
@@ -58,7 +59,9 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1104" height="643" alt="image" src="https://github.com/user-attachments/assets/d7a425c1-97b7-492d-9b1b-67cbe13ad331" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f7ee17e1-d2b5-40bc-a625-36e6c1ec8bca" />
+
+
 </p>
 <br>
 <br>
@@ -71,7 +74,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1104" height="645" alt="image" src="https://github.com/user-attachments/assets/8abfafbf-5b7b-4ca7-9be4-0889acb81851" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/bf0a8d08-ff2a-4bb2-9342-aeed014b7635" />
+
 </p>
 <br>
 <br>
@@ -88,7 +92,8 @@ Windows: Download the executable from the official CGSecurity website.
 -<br>
 <br>
 <p align="center"> 
-<img width="1107" height="642" alt="image" src="https://github.com/user-attachments/assets/1ee7e8df-acbd-4ce6-8d7c-6b0c81ec809b" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/bb4e9e7a-b114-4dd3-87dd-3b72cc72c643" />
+
 </p>
 <br>
 <br>
@@ -109,20 +114,24 @@ Windows: Download the executable from the official CGSecurity website.
     <br>
 <br>
 <p align="center">
-<img width="1095" height="638" alt="image" src="https://github.com/user-attachments/assets/93dea845-3819-4665-ba68-c4830546ffe5" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/61688417-1a76-40e4-8e08-066dca08ca06" />
+
 </p>
 <br>
 <br>
 
 - Ensure that the partitions you want to recover are marked as Primary or Logical (and not deleted).
+### 8.Deeper Search
+- Click on the Deep Search option for doinf Deep Search
 
-### 8. Write the Partition Table
+### 9. Write the Partition Table
 - Once you are confident the partition structure is correct, select [Write] from the menu.
 
 <br>
 <br>
 <p align="center">
-<img width="1112" height="640" alt="image" src="https://github.com/user-attachments/assets/78263f06-1ad8-421c-b683-c7d67add03b4" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6256ee57-931d-4b32-a0f3-fcf8311539c0" />
+
 </p>
 <br>
 <br>
@@ -132,7 +141,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-  <img width="1108" height="637" alt="image" src="https://github.com/user-attachments/assets/69095f90-5474-4bce-80e5-cc419d84f0ae" />
+  <img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/f5bb088d-e2e2-42c1-8c7c-451a70c2b421" />
+
 </p>
 <br>
 <br>
@@ -140,7 +150,7 @@ Windows: Download the executable from the official CGSecurity website.
 
 - WARNING: This is a permanent change. Double-check your selections before writing.
 
-### 9. Recover Files
+### 10. Recover Files
 - If you just need to recover a few files without fixing the partition table, you can do so from the file list (after pressing p).
 
 - Navigate to the folder containing your desired files.
@@ -151,7 +161,7 @@ Windows: Download the executable from the official CGSecurity website.
 
 - Navigate to a safe destination on a different storage device and press uppercase C again to paste.
 
-### 10. Exit and Restart
+### 11. Exit and Restart
 - Once your task is complete, select [Quit] to exit the program.
 
 - If you wrote a new partition table to the drive, it is recommended to restart your computer to allow the operating system to recognize the changes.
