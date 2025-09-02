@@ -32,7 +32,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Start Analysis
  <br>
 
-  <img width="1705" height="1068" alt="image" src="https://github.com/user-attachments/assets/f1f069b8-fc11-43ba-8bd6-63cf30615a11" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/0f7d86e5-dab8-4fea-a8a6-daaff9e64daf" />
 <br>
  <br>
  
@@ -42,7 +42,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Use the Tree Viewer
 
 <br>
-<img width="1710" height="1074" alt="image" src="https://github.com/user-attachments/assets/bf0d8448-b6c4-4e7f-8e5c-d1c9e23cf3e5" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/2599f99d-0753-41cd-abe4-1ed21b84936a" />
 <br>
 <br>
 
@@ -63,7 +63,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
   - Compare file hashes with known databases to identify known good or bad files.
     <br>
  
-<img width="1708" height="1070" alt="image" src="https://github.com/user-attachments/assets/39d8aab8-51bb-4706-9b1e-e1d5905ff9df" />
+<img width="1261" height="63" alt="Screenshot 2025-09-01 222822" src="https://github.com/user-attachments/assets/3d76a00a-a810-41bc-a8e0-97f9077b983e" />
 <br>
 <br>
 
